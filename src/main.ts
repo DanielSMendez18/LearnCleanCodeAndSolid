@@ -2,6 +2,9 @@ import './style.css'
 //import { setupCounter } from './counter.ts'
 import './Clean Code/03-homework.ts'
 import './Clean Code/04-DRY.ts'
+import './Clean Code/05-class.ts'
+import './Clean Code/05-class3.ts'
+import './Clean Code/06-class-homework.ts'
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <div>
